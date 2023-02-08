@@ -1,0 +1,18 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+nav {
+    border: 2px solid coral;
+
+}
+
+main {
+    border: 2px solid palegreen;
+}
+
+.flex-parent {
+    display: flex;
+    gap: 12px;
+    justify-content: center;
+}
